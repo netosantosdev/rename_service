@@ -1,5 +1,3 @@
-# AutoRenameWatcher
-
 Um utilitário leve em Python para **monitorar uma pasta do usuário atual em tempo real** e **renomear automaticamente arquivos com extensões inválidas** (ex: `.jpg_`, `.pdf_`, etc.), corrigindo seus nomes. Ideal para ambientes corporativos onde arquivos são frequentemente salvos com sufixos incorretos.
 
 ---
